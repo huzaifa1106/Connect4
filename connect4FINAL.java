@@ -1,6 +1,6 @@
 //connect4Project
 //Author: Huzaifa A.
-//Date Modified: 06/16/2023
+//Date Modified: 09/16/2023
 //Description: A fun and cool game to play with your friends, the objective is to connect 4 chips Vertically, Horizonatally, and Diagonally
 
 //import files
